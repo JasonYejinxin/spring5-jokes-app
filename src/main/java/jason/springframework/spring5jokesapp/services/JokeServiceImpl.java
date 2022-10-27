@@ -1,7 +1,7 @@
 package jason.springframework.spring5jokesapp.services;
 
-import guru.springframework.norris.chuck.ChuckNorrisInfoContributor;
-import guru.springframework.norris.chuck.ChuckNorrisQuotes;
+
+import jason.springframework.spring5jokesapp.ChuckNorrisQuotes;
 import org.springframework.stereotype.Service;
 
 @Service
